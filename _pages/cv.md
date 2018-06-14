@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Industrial Engineering and Operations Research, UC Berkeley, 2010
+* M.Eng. in Operations Research and Information Engineering, Cornell University, 2013
+* Ph.D in Decisions, Operations, and Technology Management, UCLA, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015: Business Intelligence Engineer
+  * Amazon
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013 - 2015: Analytics Consultant
+  * AIMMS
   
-Skills
+* 2011 - 2012: Consultant
+  * Deloitte
+  
+* 2010 - 2011: Operations Research Analyst
+  * Princess Cruises
+  
+Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2015 - 2019, UCLA Anderson Doctoral Fellowship
+* 2013, Ezra Cornell Fellowship
 
 Publications
 ======
